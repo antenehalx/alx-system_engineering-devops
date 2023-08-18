@@ -13,4 +13,8 @@ Foster a culture of continuous improvement: Encouraging regular postmortem analy
 
 Enhance communication: Postmortems encourage open and honest communication within teams, as participants are encouraged to share their perspectives and insights without fear of blame.
 
-During a postmortem, participants typically discuss what was planned, what was achieved, what obstacles were encountered, and what lessons were learned. They may also brainstorm actionable recommendations for future projects or events. The goal is to gather valuable insights that can be used to drive improvements in processes, strategies, and outcomes going forward.
+During a postmortem, participants typically discuss what was planned, what was achieved, what obstacles were encountered, and what lessons were learned. They may also brainstorm actionable recommendations for future projects or events. The goal is to gather valuable insights that can be used to drive improvements in processes, strategies, and outcomes going forward. 
+
+https://docs.google.com/document/d/1CrWUP8xShwUAkoo9yJ9t9vBTqKyjwebHsgFUWmhS-mM/edit?usp=sharing
+
+https://docs.google.com/document/d/1PrVjvRRMKwzN91kkrx5v2pR_PO6SaA1qczqvcfpoNFA/edit?usp=sharing
